@@ -12,12 +12,12 @@ Example workers built with the [unmeshed-csharp-sdk](https://www.nuget.org/packa
 - 🔁 **Resilient by default** — Automatic retries, state persistence, and long-running execution support out of the box.
 - 🛠️ **Multi-language SDKs** — Official SDKs for Java, Go, TypeScript, Python, and C#.
 
-👉 [Documentation](https://unmeshed.io/docs/start-here/getting-started) · [GitHub](https://github.com/unmeshed)
+👉 [Documentation](https://unmeshed.io/docs/start-here/getting-started)) · [C# SDK](https://github.com/unmeshed/unmeshed-csharp-sdk) · [GitHub](https://github.com/unmeshed)
 
 ## Prerequisites
 
 - [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) or later
-- An Unmeshed Engine instance ([get started](https://docs.unmeshed.io))
+- An Unmeshed Engine instance ([get started](https://unmeshed.io/docs/start-here/getting-started))
 
 ## Setup
 
@@ -30,7 +30,7 @@ Example workers built with the [unmeshed-csharp-sdk](https://www.nuget.org/packa
 
 2. **Set your credentials**
 
-   You'll need your **Client ID** and **Auth Token** from the [Unmeshed Console](https://console.unmeshed.io).
+   You'll need your **Client ID** and **Auth Token** from your [Unmeshed Instance](https://your-instance.unmeshed.com).
 
    ```bash
    export UNMESHED_AUTH_ID="your-client-id"
