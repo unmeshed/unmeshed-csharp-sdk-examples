@@ -2,6 +2,18 @@
 
 Example workers built with the [unmeshed-csharp-sdk](https://www.nuget.org/packages/unmeshed-csharp-sdk).
 
+## About Unmeshed
+
+[Unmeshed](https://unmeshed.io) is a workflow orchestration platform for building resilient, durable business processes — connecting APIs, AI agents, and human-in-the-loop tasks into observable, end-to-end flows.
+
+- 🔄 **Processes & Steps** — Model workflows as processes composed of individual steps (API calls, scripts, approvals, AI invocations).
+- 🤖 **AI-native** — First-class support for governing AI model calls, optimising token usage, and tying AI operations to business outcomes.
+- 👤 **Human-in-the-Loop** — Pause workflows for approvals, structured input, or manual decisions before continuing.
+- 🔁 **Resilient by default** — Automatic retries, state persistence, and long-running execution support out of the box.
+- 🛠️ **Multi-language SDKs** — Official SDKs for Java, Go, TypeScript, Python, and C#.
+
+👉 [Documentation](https://unmeshed.io/docs/start-here/getting-started) · [GitHub](https://github.com/unmeshed)
+
 ## Prerequisites
 
 - [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) or later
